@@ -5,3 +5,7 @@ http://m.memegen.com/ozv54n.jpg
 
 <<< 2015-10-01- Anonymous Java contributor >>>
 "De toute façon Github c'est comme Twitter et Facebook, et puis j'y comprends rien"
+
+<<< 2015-10-01- Anonymous Java contributor >>>
+Oh ça fait un gros "pull"
+> C'est toi la grosse poule
