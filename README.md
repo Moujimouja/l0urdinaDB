@@ -27,3 +27,12 @@ http://m.memegen.com/ozv54n.jpg
 > Collaborateur : #mysql -u root -proot
 
 > Collaborateur : "oh le lourd . . ."
+
+<<< 2015-10-02- Anonymous CTO >>>
+> Collaborateur : "Je rentre des émirats"
+
+> Anonymous CTO :"t'as l'air fatigué"
+
+> Collaborateur : "a bon ?"
+
+> Anonymous CTO :"Ben ouai Dubaï"
