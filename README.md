@@ -14,3 +14,10 @@ http://m.memegen.com/ozv54n.jpg
 <<< 2015-10-02- Anonymous QA contributor >>>
 > je l'ai acheté la veille .
 > à Simone ? 
+
+<<< 2015-10-02- Anonymous Java contributor >>>
+> Collaborateur : "T'as mis quoi comme mot de pass root pour MySQL ?"
+> Anonymous Java contributor :"root"
+> Collaborateur : "Ok merci"
+> Collaborateur : #mysql -u root -proot
+> Collaborateur : "oh le lourd . . ."
