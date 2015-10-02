@@ -9,3 +9,8 @@ http://m.memegen.com/ozv54n.jpg
 <<< 2015-10-01- Anonymous Java contributor >>>
 > Oh ça fait un gros "pull".
 > C'est toi la grosse poule
+
+
+<<< 2015-10-02- Anonymous QA contributor >>>
+> je l'ai acheté la veille .
+> à Simone ? 
